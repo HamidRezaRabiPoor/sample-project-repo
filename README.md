@@ -33,14 +33,6 @@ Table
 |    two  |     two  |   two   |
 |   three |   three  |  three  |
 |         |          |         |
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+
+[^1]:table behaviour is nice
       
