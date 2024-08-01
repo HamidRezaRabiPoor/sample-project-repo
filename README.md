@@ -48,7 +48,8 @@ subheading
 --------------------
 <details>
  <summary>collups</summary>
- # heading
+ heading
+ ============
  
  this is a nice attribute
 </details>
