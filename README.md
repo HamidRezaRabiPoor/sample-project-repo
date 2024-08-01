@@ -46,7 +46,7 @@ checkList
       
 subheading
 --------------------
-<detalis>
+<details>
  <summary>collups</summary>
  #heading
  
