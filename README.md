@@ -46,4 +46,10 @@ checkList
       
 subheading
 --------------------
+<detalis>
+ <summary>this is a useful feature</summary>
+ # heading
+ this is a nice attribute
+</details>
+
 
