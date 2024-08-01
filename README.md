@@ -48,10 +48,37 @@ subheading
 --------------------
 <details>
  <summary>collups</summary>
+ 
  heading
  ============
  
  this is a nice attribute
 </details>
+😍
+🇦🇫
+
+write double qoutes and he
+
+
+
+
+> [!Note]
+> note
+
+> [!IMPORTANT]
+> important
+
+> [!WARNING]
+> warning
+
+
+```mermaid
+graph TD;
+A--->B;
+B--->C;
+C--->A;
+```
+
+
 
 
