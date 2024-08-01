@@ -23,5 +23,24 @@ for(int i = 0; i < name.length(); i++){
 }
 
 ```
-As it shows every thing is written by [^1]java
+As it shows every thing is written by `java`
+
+Table
+===================
+|  Left   |   center |  Right  |
+| ------- | :------: |-------: |
+|    one  |     one  |   one   |
+|    two  |     two  |   two   |
+|   three |   three  |  three  |
+|         |          |         |
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
       
