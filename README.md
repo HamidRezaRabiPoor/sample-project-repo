@@ -35,4 +35,15 @@ Table
 |         |          |         |
 
 [^1]:table behaviour is nice
+
+checkList
+====================
+- [ ] first
+- [ ] second
+- [ ] third
+- [ ] forth
+- [ ] fifth
       
+subheading
+--------------------
+
