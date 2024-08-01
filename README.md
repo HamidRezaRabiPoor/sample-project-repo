@@ -47,7 +47,7 @@ checkList
 subheading
 --------------------
 <detalis>
- <summary>this is a useful feature</summary>
+ <summary>collups</summary>
  #heading
  
  this is a nice attribute
