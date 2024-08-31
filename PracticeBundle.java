@@ -2,7 +2,7 @@ public class PracticeBundle {
    private String name ;
    private String family;
    private int age;
-  
+
 
     public String getName() {
         return name;
