@@ -1,0 +1,91 @@
+
+git status -> show the status 
+-to initial git :
+	git config --global user.name "username"
+	git config --global user.email "email"
+
+
+
+-to add your files
+	git add "file_name"
+
+
+
+- to commit 
+	git commit -m "your message"  # without -m it opens your text editor	 	
+
+
+	
+- to log 
+	git log --oneline   # modified log 
+	git log		    # classic log
+	git log -3	    # last three commits
+	git log --since=2024-01-01   #show commits by time
+	git log --until=2024-01-01   #until specified time
+	git log file_name   # commits imposed on the file 
+	git log --after=2.weeks --before=3.days  #commits between last 2 weeks until last three days
+
+
+	
+- branching
+	git branch        # shows the branchs
+	git branch branch_name   # creates new branch with name of branch_name
+
+
+
+- switch branch
+	git checkout branch_name   # switch to new_branch
+
+
+
+- delete branch
+        git branch -d branchname  # git branch -D branch_name # force to delete branch
+
+
+
+- merge branch
+	git merge branch_name    # merge the current branch with branch which called
+	git branch --merged         # shows the branches which merged with current branch
+	git b ranch --no-merged     # shows branched were not merged with current branch			
+
+	
+
+
+- rename branch
+	git branch -m nameOfBranch   # rename the branch name
+	
+	
+	
+- copy branch
+	git branch -c branch name || git branch -C branch name #forc copy branch
+	
+	
+	
+- git remote
+	git remote add origin <repo url>         # create a remote origin to push your contents to remote repository
+	git push -u origin master        	 # push selected files to remote repository
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
